@@ -1,0 +1,24 @@
+{
+  "name": "devops-td2-cicd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eric-lefebvre/DevOps-TD2-CICD.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/eric-lefebvre/DevOps-TD2-CICD/issues"
+  },
+  "homepage": "https://github.com/eric-lefebvre/DevOps-TD2-CICD#readme",
+  "devDependencies": {
+    "jest": "^30.2.0"
+  }
+}
